@@ -32,6 +32,14 @@
 - использование super для вызова методов родителя
 - геттеры и сеттеры
 
+### День 5: Generics (Обобщения)
+- функции с generic параметрами
+- generic классы
+- generic интерфейсы
+- constraints (ограничения на типы)
+- несколько generic параметров
+- union и intersection с generics
+
 ## Запуск примеров
 - tsc day1_practice.ts      // Создаст day1_practice.js
 - node day1_practice.js     // Запустит код
