@@ -40,6 +40,15 @@
 - несколько generic параметров
 - union и intersection с generics
 
+### День 6: Union, Intersection, Type Guards
+- union типы (|) углубление
+- intersection типы (&)
+- type guards через typeof
+- type guards через instanceof
+- discriminated union (паттерн с type switch)
+- custom type guard функции value is Type
+- readonly модификатор
+
 ## Запуск примеров
 - tsc day1_practice.ts      // Создаст day1_practice.js
 - node day1_practice.js     // Запустит код
